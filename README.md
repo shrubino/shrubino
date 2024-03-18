@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shrubino
+- 👀 I’m interested in godot and other game enginges, dungeon crawlers, procGen, roguelikes, and indie games
+- 🌱 I’m currently learning GDScript
+- 💞️ I’m looking to collaborate on games, small features within GDS, and roguelike development
+- 📫 How to reach me: here, @shrubino on X, instagram, discord
